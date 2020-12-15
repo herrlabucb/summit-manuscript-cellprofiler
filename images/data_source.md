@@ -1,0 +1,2 @@
+- `skew_sim_data.tif` from the summit examples. See [here](https://github.com/herrlabucb/summit/tree/84f31dee222223d5385b93d7ba234630a4eac85e/examples/make_skew_data) for the source code.
+- `skew_sim_data_BandOutline.png` contains the outlines of detected bands superposed on the background subtracted images and is the output of this pipeline.
